@@ -1,5 +1,7 @@
-This is Repository personal use for Red Teaming in cyber security
-
+This is Repository personal use for cyber security
+============
+==RED TEAM==
+============
 OSCP Cheat Sheet
 https://github.com/0xsyr0/oscp
 
@@ -8,4 +10,36 @@ https://0xdf.gitlab.io/cheatsheets/offsec
 
 Ejpt Cheat Sheet
 https://blog.syselement.com/ine/courses/ejpt/ejpt-cheatsheet
+
+Pentester Guide
+https://github.com/ZishanAdThandar/pentest/blob/main/README.md
+
+=============
+==BLUE TEAM==
+=============
+Mapping of open-source detection rules (MITRE ATTACK) and atomic tests.
+https://attackrulemap.netlify.app/
+
+Comunity learn discussion
+https://hacksnation.com/
+
+Book Resource Cyber
+https://drive.google.com/drive/u/0/folders/179D_slEOLXWOTeFdmRrMkdV8C4DSLdYT
+
+Exam Question
+https://github.com/CATx003/CHFI-SIMULATOR/blob/master/chfi.py
+
+Documentation Custom Rule on Elasticsearch
+https://www.elastic.co/guide/en/security/current/rules-ui-create.html
+
+Module elastic integration Log
+https://www.elastic.co/guide/en/beats/filebeat/current/filebeat-module-fortinet.html
+
+Documentation Open search (open search di integrasikan dengan elastic dan logstash)
+https://opensearch.org/docs/latest/install-and-configure/index/
+
+Indonesia Cyber Security Resources
+https://github.com/screetsec/Cybersecurity-Indonesia
+
+
 
